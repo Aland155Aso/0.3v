@@ -1,0 +1,7 @@
+{
+  "name": "Bio Supplements",
+  "description": "A modern, responsive e-commerce store for premium health and fitness supplements with multi-language support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
