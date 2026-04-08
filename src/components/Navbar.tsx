@@ -223,7 +223,7 @@ const Navbar: React.FC = () => {
                   autoFocus
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}
-                  placeholder="Search products..."
+                  placeholder={t('search')}
                   className="w-full pl-12 pr-6 py-4 bg-white/50 dark:bg-black/50 backdrop-blur-md border border-white/10 rounded-2xl focus:ring-2 focus:ring-primary transition-all outline-none dark:text-white font-bold"
                 />
               </form>

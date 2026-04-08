@@ -163,7 +163,7 @@ export const translations: Record<string, Record<Language, string>> = {
   empty_cart_desc: { en: "Looks like you haven't added anything to your cart yet. Explore our premium supplements and start your fitness journey today!", ku: 'وادیارە هێشتا هیچت بۆ سەبەتەکەت زیاد نەکردووە. بەرهەمە نایابەکانمان بپشکنە و گەشتەکەت دەست پێبکە!', ar: 'يبدو أنك لم تضف أي شيء إلى سلتك بعد. استكشف مكملاتنا الممتازة وابدأ رحلتك اليوم!' },
   free: { en: 'FREE', ku: 'بێبەرامبەر', ar: 'مجاني' },
   cart_footer_badges: { en: 'Secure SSL Encryption • 30-Day Returns • 24/7 Support', ku: 'پاراستنی پارەدان • گەڕانەوە لە ٣٠ ڕۆژدا • خزمەتگوزاری ٢٤ کاتژمێر', ar: 'تشفير SSL آمن • إرجاع خلال 30 يوماً • دعم 24/7' },
-  search: { en: 'Search products...', ku: 'گەڕان بۆ بەرهەمەکان...', ar: 'البحث عن المنتجات...' },
+  search: { en: 'Search', ku: 'گەڕان', ar: 'بحث' },
   all_categories: { en: 'All Categories', ku: 'هەموو جۆرەکان', ar: 'جميع الفئات' },
   all_rights_reserved: { en: 'All rights reserved.', ku: 'هەموو مافەکان پارێزراوە.', ar: 'جميع الحقوق محفوظة.' },
   shipping_policy: { en: 'Shipping Policy', ku: 'یاساکانی گەیاندن', ar: 'سياسة الشحن' },
